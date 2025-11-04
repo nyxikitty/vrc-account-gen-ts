@@ -1,0 +1,30 @@
+{
+  "name": "vrchat-account-gen",
+  "version": "2.0.0",
+  "description": "VRChat Account Generator - TypeScript Rewrite",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "ts-node src/index.ts"
+  },
+  "keywords": ["vrchat", "discord", "bot"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "node-fetch": "^2.7.0",
+    "node-imap": "^0.9.6",
+    "mailparser": "^3.6.5",
+    "https-proxy-agent": "^7.0.2",
+    "socks-proxy-agent": "^8.0.2",
+    "2captcha": "^3.0.6",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.6",
+    "@types/node-fetch": "^2.6.9",
+    "typescript": "^5.3.3",
+    "ts-node": "^10.9.2"
+  }
+}
