@@ -1,6 +1,6 @@
 MIT License with Attribution Requirements
 
-Copyright (c) 2025 Subway
+Copyright (c) 2025 Nyxi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
